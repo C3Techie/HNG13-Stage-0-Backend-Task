@@ -16,15 +16,17 @@ yarn-error.log*
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
 *~
 
 # Environment files (if any are added later)
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
